@@ -1,0 +1,7 @@
+init:
+  version: VERSION
+  js:
+    js/ckeditor_tooltip.js: {}
+  css:
+    theme:
+      css/ckeditor_tooltip.css: {}

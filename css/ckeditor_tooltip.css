@@ -1,0 +1,13 @@
+.ckeditor-tooltip {
+  border-bottom: 1px dashed #01772d;
+}
+.ckeditor-tooltip:after {
+  content: '?';
+  font-size: 9px;
+  top: -6px;
+  position: relative;
+  color: #01772d;
+}
+.tooltip.show.opacity-one {
+  opacity: 1;
+}
